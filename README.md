@@ -20,7 +20,7 @@ Eles permitem armazenar múltiplos valores dentro de uma mesma variável, sendo 
 # 1. Método map()
 
 O método `map()` percorre todos os elementos de um ArrayList aplicando uma transformação a cada item.
-Ele retorna **um novo array**, mantendo o mesmo tamanho, porém com valores transformados.
+Ele retorna um novo array , mantendo o mesmo tamanho, porém com valores transformados.
 
 Exemplo:
 
@@ -40,7 +40,7 @@ Exemplo:
 
 # 3. Método reduce()
 
-O método `reduce()` reduz todos os elementos do array a **um único valor**, acumulando resultados durante o percurso.
+O método `reduce()` reduz todos os elementos do array a um único valor, acumulando resultados durante o percurso.
 
 Exemplo somando valores:
 
