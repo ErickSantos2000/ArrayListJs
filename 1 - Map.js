@@ -14,9 +14,7 @@ ao final retornando uma NOVA lista com esses elementos transformados.
 Aqui temos um exemplo de como isso funciona:
 */
 
-let multPorDois = numeros.map((elemento) => {
-  return elemento * 2;
-});
+let multPorDois = numeros.map(elemento =>  elemento * 2);
 
 console.log(multPorDois);
 // saida: [ 2, 4, 6, 8, 10 ]
