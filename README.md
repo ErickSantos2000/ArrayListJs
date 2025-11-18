@@ -6,7 +6,8 @@ Este projeto apresenta um tutorial simples e direto sobre como manipular coleç�
 Arrays em JavaScript são estruturas que permitem armazenar valores de qualquer tipo dentro de uma única lista.
 A seguir, um exemplo básico de ArrayList:
 
-![imagem do array](img/ArrayList.png)
+![alt text](image.png)
+
 
 ---
 
@@ -24,7 +25,7 @@ Ele retorna um novo array , mantendo o mesmo tamanho, porém com valores transfo
 
 Exemplo:
 
-![imagem do exemplo de map](img/Map.png)
+![alt text](image-1.png)
 
 ---
 
@@ -34,7 +35,7 @@ O método `filter()` cria um novo array contendo apenas os elementos que atender
 
 Exemplo:
 
-![imagem do exemplo de filter](img/Filter.png)
+![alt text](image-2.png)
 
 ---
 
@@ -44,7 +45,7 @@ O método `reduce()` reduz todos os elementos do array a um único valor, acumul
 
 Exemplo somando valores:
 
-![imagem do exemplo de reduce](img/Reduce.png)
+![alt text](image-3.png)
 
 ---
 
