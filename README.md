@@ -8,14 +8,6 @@ A seguir, um exemplo básico de ArrayList:
 
 ![alt text](image.png)
 
-
----
-
-# O que é um Array em JavaScript
-
-Um array é uma lista ordenada de valores, acessada por índices numéricos.
-Eles permitem armazenar múltiplos valores dentro de uma mesma variável, sendo muito utilizados em manipulação de coleções.
-
 ---
 
 # 1. Método map()
